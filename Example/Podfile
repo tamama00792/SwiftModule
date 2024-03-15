@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftModule_Tests' do
+  pod 'SwiftModule', :path => '../'
+  
+  
+end
